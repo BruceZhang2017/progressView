@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UIProgressView</string>
+    <string name="loading">正在查找联\n系人</string>
+</resources>

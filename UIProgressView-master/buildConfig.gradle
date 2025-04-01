@@ -1,0 +1,9 @@
+ext{
+    compileSdkVersion = 34
+    buildToolsVersion = "34.0.0"
+
+    minSdkVersion = 27
+    targetSdkVersion = 30
+
+    supportVersion = "27.1.1"
+}
